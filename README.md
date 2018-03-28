@@ -47,23 +47,18 @@
 
 ### Java安全开发组件
 
-- [trident](https://github.com/JoyChou93/trident)
+- [Trident](https://github.com/JoyChou93/trident)
+- [Java安全测试代码](https://github.com/JoyChou93/java-sec-code)
 
 ### Github信息泄露监控
 
 - [GSIL](https://github.com/FeeiCN/GSIL)
 - [Hawkeye](https://github.com/0xbug/Hawkeye)
 
-## WEB安全
+### Nginx Parser
 
+- [解析域名后端IP](https://github.com/WhaleShark-Team/nginxparser)
 
-### CSRF
-
-- [JSON格式的CSRF利用](https://joychou.org/web/exploiting-json-csrf.html)
-
-### XSS
-
-- [Flash XSS](https://joychou.org/web/flash-xss.html)
 
 ## 运维安全
 
@@ -108,8 +103,6 @@
 - [花式Bypass安全狗对菜刀特征的拦截规则](https://joychou.org/web/bypass-safedog-blocking-rules-for-chopper.html)
 - [定制过狗菜刀](https://joychou.org/web/make-own-chopper-which-can-bypass-dog.html)
 - [Cknife (一款开源菜刀)](https://github.com/Chora10/Cknife)
-
-
 
 
 ## 主机安全
@@ -186,6 +179,8 @@
 - [Ptyhon沙盒绕过](https://joychou.org/web/python-sandbox-bypass.html)
 - [Python安全代码审计](https://joychou.org/web/python-sec-code-audit.html)
 - [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
+- [从一个CTF题目学习Python沙箱逃逸](https://www.anquanke.com/post/id/85571)
+
 
 ## Lua安全
 

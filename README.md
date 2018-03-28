@@ -107,6 +107,9 @@
 - [定制过狗菜刀](https://joychou.org/web/make-own-chopper-which-can-bypass-dog.html)
 - [Cknife (一款开源菜刀)](https://github.com/Chora10/Cknife)
 
+
+
+
 ## 主机安全
 
 ### 提权
@@ -170,6 +173,11 @@
 - [Typecho SSRF漏洞分析和利用](https://joychou.org/web/typecho-ssrf-analysis-and-exploit.html)
 - [SSRF in PHP](https://joychou.org/web/phpssrf.html)
 
+### PHP反序列化
+
+- [Typecho反序列化漏洞分析](https://joychou.org/web/typecho-unserialize-vulnerability.html)
+- [浅谈php反序列化漏洞](https://chybeta.github.io/2017/06/17/%E6%B5%85%E8%B0%88php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
+
 ## Python安全
 
 - [Exploit SSTI in Flask/Jinja2](https://joychou.org/web/exploit-ssti-in-flask-jinja2.html)
@@ -194,6 +202,8 @@
 - [微博PC版去广告]()
 
 ## 安全面试问题
+
+### 甲方
 
 - TCP/IP协议
 - 如果服务器上有一个phpspy.php，如何做入侵分析

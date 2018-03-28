@@ -1,6 +1,19 @@
 # Security Knowledge Structure
 
 
+## 基本技能
+
+- Linux RPM理解及使用
+- PIP理解及使用
+- Python、PHP、Java、Bash
+- iptables、定时任务、反弹shell
+- 正向和反向代理
+- Nginx使用及配置
+- 域名配置
+- HTTP协议
+- 工具使用BurpSuite
+
+
 ## 企业安全
 
 ### 黑盒扫描
@@ -55,9 +68,9 @@
 - [GSIL](https://github.com/FeeiCN/GSIL)
 - [Hawkeye](https://github.com/0xbug/Hawkeye)
 
-### Nginx Parser
+### 解析域名后端IP
 
-- [解析域名后端IP](https://github.com/WhaleShark-Team/nginxparser)
+- [Nginx Parser](https://github.com/WhaleShark-Team/nginxparser)
 
 
 ## 运维安全
@@ -109,7 +122,7 @@
 
 ### 提权
 
-
+- [脏牛CVE-2016-5195提权](https://github.com/FireFart/dirtycow/blob/master/dirty.c)
 
 ## 前端安全
 
@@ -189,9 +202,7 @@
 ## 漏洞修复
 
 - [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
-- [CVE-2016-5195 Dirty Cow阿里云官方修复](https://help.aliyun.com/knowledge_detail/44786.html)
-- [如何保护你的服务器修复Dirty COW (CVE-2016-5195) Linux漏洞](https://www.howtoing.com/how-to-protect-your-server-against-the-dirty-cow-linux-vulnerability)
-
+- [CVE-2016-5195 Dirty Cow漏洞修复](https://www.digitalocean.com/community/tutorials/how-to-protect-your-server-against-the-dirty-cow-linux-vulnerability)
 
 
 ## 黑科技

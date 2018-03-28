@@ -172,17 +172,10 @@
 
 ## Python安全
 
-### SSTI
-
 - [Exploit SSTI in Flask/Jinja2](https://joychou.org/web/exploit-ssti-in-flask-jinja2.html)
-
-### Python沙盒绕过
-
 - [Ptyhon沙盒绕过](https://joychou.org/web/python-sandbox-bypass.html)
-
-### Python代码审计
-
 - [Python安全代码审计](https://joychou.org/web/python-sec-code-audit.html)
+- [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
 
 ## Lua安全
 
@@ -190,11 +183,8 @@
 
 ## 漏洞修复
 
-- [修复Python任意命令执行漏洞](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
-
-
-### CVE-2016-5195 Dirty Cow
-- [阿里云官方修复](https://help.aliyun.com/knowledge_detail/44786.html)
+- [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
+- [CVE-2016-5195 Dirty Cow阿里云官方修复](https://help.aliyun.com/knowledge_detail/44786.html)
 - [如何保护你的服务器修复Dirty COW (CVE-2016-5195) Linux漏洞](https://www.howtoing.com/how-to-protect-your-server-against-the-dirty-cow-linux-vulnerability)
 
 

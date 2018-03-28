@@ -3,12 +3,11 @@
 
 ## 企业安全
 
-### 黑盒扫描器
+### 黑盒扫描
 
-
-#### 扫描姿势
-
-
+- [静态xss检测](http://blog.wils0n.cn/archives/160/)
+- [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
+- [初见Chrome Headless Browser](https://lightless.me/archives/first-glance-at-chrome-headless-browser.html)
 - [用phantomJS检测URL重定向](https://joychou.org/web/dom-url-redirect.html)
 - [用SlimerJS检测Flash XSS](https://joychou.org/web/Flash-Xss-Dynamic-Detection.html)
 
@@ -50,7 +49,10 @@
 
 - [trident](https://github.com/JoyChou93/trident)
 
+### Github信息泄露监控
 
+- [GSIL](https://github.com/FeeiCN/GSIL)
+- [Hawkeye](https://github.com/0xbug/Hawkeye)
 
 ## WEB安全
 

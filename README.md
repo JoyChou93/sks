@@ -1,19 +1,5 @@
 # Security Knowledge Structure
 
-
-## 基本技能
-
-- Linux RPM理解及使用
-- PIP理解及使用
-- Python、PHP、Java、Bash
-- iptables、定时任务、反弹shell
-- 正向和反向代理
-- Nginx使用及配置
-- 域名配置
-- HTTP协议
-- 工具使用BurpSuite
-
-
 ## 企业安全
 
 ### 黑盒扫描
@@ -53,6 +39,7 @@
 
 - [Netlink Connector](https://www.ibm.com/developerworks/cn/linux/l-connector/)
 - [Netlink(Go版本)](https://github.com/vishvananda/netlink)
+- [「驭龙」Linux执行命令监控驱动实现解析](https://mp.weixin.qq.com/s/ntE5FNM8UaXQFC5l4iKUUw)
 
 ### 文件监控和同步
 
@@ -82,6 +69,12 @@
 - [Nginx Config Security](https://joychou.org/web/nginx-config-security.html)
 
 ## Backdoor
+
+### Nginx后门
+
+- [pwnnginx](https://github.com/t57root/pwnginx)
+- [浅谈nginx + lua在安全中的一些应用](https://zhuanlan.zhihu.com/p/21362834)
+
 
 ### Webshell
 
@@ -208,6 +201,18 @@
 ## 黑科技
 
 - [微博PC版去广告]()
+
+## 基本技能
+
+- Linux RPM理解及使用
+- PIP理解及使用
+- Python、PHP、Java、Bash
+- iptables、定时任务、反弹shell
+- 正向和反向代理
+- Nginx使用及配置
+- 域名配置
+- HTTP协议
+- 工具使用BurpSuite
 
 ## 安全面试问题
 

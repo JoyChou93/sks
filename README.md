@@ -68,6 +68,10 @@
 - [三个案例看Nginx配置安全](https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html)
 - [Nginx Config Security](https://joychou.org/web/nginx-config-security.html)
 
+### Tomcat配置安全
+
+- [Tomcat Config Security](https://joychou.org/operations/tomcat-config-security.html)
+
 ## Backdoor
 
 ### Nginx后门
@@ -101,6 +105,7 @@
 ## WAF Bypass
 
 - [文件上传和WAF的功与防](https://joychou.org/web/bypass-waf-of-file-upload.html)
+- [Nginx Lua WAF通用绕过方法](https://joychou.org/web/nginx-Lua-waf-general-bypass-method.html)
 
 ### 菜刀
 
@@ -117,6 +122,7 @@
 
 - [脏牛CVE-2016-5195提权](https://github.com/FireFart/dirtycow/blob/master/dirty.c)
 
+
 ## 前端安全
 
 - [JavaScript反调试技巧](http://www.freebuf.com/articles/system/163579.html)
@@ -132,6 +138,11 @@
 - [跨浏览器设备指纹](https://github.com/Song-Li/cross_browser)
 - [2.5代指纹追踪技术—跨浏览器指纹识别](https://paper.seebug.org/350/)
 
+### 安全水印
+
+- [水印开发](https://github.com/saucxs/watermark)
+- [水印的攻击与防御](https://joychou.org/business/watermark-security.html)
+
 
 ## 移动安全
 
@@ -141,6 +152,20 @@
 
 
 - [find-sec-bug](http://find-sec-bugs.github.io/bugs.htm)
+
+
+
+### RASP
+
+- [OpenRASP](https://github.com/baidu/openrasp)
+- [JAVA Apache-CommonsCollections 序列化漏洞分析以及漏洞高级利用](https://www.iswin.org/2015/11/13/Apache-CommonsCollections-Deserialized-Vulnerability/)
+
+### Java反序列化
+
+- [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/)
+- [JAVA Apache-CommonsCollections 序列化漏洞分析以及漏洞高级利用](https://www.iswin.org/2015/11/13/Apache-CommonsCollections-Deserialized-Vulnerability/)
+- [Java反序列化漏洞-玄铁重剑之CommonsCollection(上)](https://xz.aliyun.com/t/2028)
+- [Commons Collections Java反序列化漏洞分析](https://joychou.org/java/commons-collections-java-deserialize-vulnerability-analysis.html)
 
 ### JDWP
 
@@ -216,6 +241,8 @@
 
 ## 安全面试问题
 
+>面试的问题跟自己简历相关，只是面试官会根据你回答的点继续深挖，看看你有没有回答他想要的答案。
+
 ### 甲方
 
 - TCP/IP协议
@@ -225,3 +252,22 @@
 - 邮件伪造如何防御
 - 拿到WEBSHELL，无法提权，还有什么思路？
 - SDL流程
+- 安全如何闭环
+- 觉得自己哪方面比较牛逼
+- 越权有什么检测方式
+    - 黑盒两个账户Cookie
+    - 鉴权函数 + 数据库查询
+- 类似JDWP这种传统HTTP层WAF不能拦截，可以如何检测？
+    - RASP
+    - 命令监控(父进程是Java，并且执行了恶意命令)
+    
+    
+非技术面：
+
+- 为什么离开之前公司
+- 在之前公司的成长
+- 工作成就感
+- 做的最大、最牛逼的项目
+- 对未来规划是什么
+- 安全培训怎样衡量价值
+- 后面安全的方向是什么

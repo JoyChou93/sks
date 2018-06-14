@@ -158,7 +158,7 @@
 ### RASP
 
 - [OpenRASP](https://github.com/baidu/openrasp)
-- [JAVA Apache-CommonsCollections 序列化漏洞分析以及漏洞高级利用](https://www.iswin.org/2015/11/13/Apache-CommonsCollections-Deserialized-Vulnerability/)
+- [RASP，从 Java 反序列化命令执行说起](https://toutiao.io/posts/4kt0al/preview)
 
 ### Java反序列化
 

@@ -39,7 +39,7 @@
 
 - [Netlink Connector](https://www.ibm.com/developerworks/cn/linux/l-connector/)
 - [Netlink(Go版本)](https://github.com/vishvananda/netlink)
-- [「驭龙」Linux执行命令监控驱动实现解析](https://mp.weixin.qq.com/s/ntE5FNM8UaXQFC5l4iKUUw)
+- [Linux执行命令监控驱动实现解析](https://mp.weixin.qq.com/s/ntE5FNM8UaXQFC5l4iKUUw)
 
 ### 1.8 文件监控和同步
 
@@ -149,6 +149,7 @@
 
 
 - [find-sec-bug](http://find-sec-bugs.github.io/bugs.htm)
+- [java-sec-code](https://github.com/JoyChou93/java-sec-code)
 
 
 ### 8.1 RASP

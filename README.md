@@ -50,7 +50,7 @@
 ### 1.9 Java安全开发组件
 
 - [Trident](https://github.com/JoyChou93/trident)
-- [Java安全测试代码](https://github.com/JoyChou93/java-sec-code)
+- [Java安全漏洞及修复代码](https://github.com/JoyChou93/java-sec-code)
 
 ### 1.10 Github信息泄露监控
 
@@ -151,7 +151,7 @@
 
 
 - [find-sec-bug](http://find-sec-bugs.github.io/bugs.htm)
-- [Java安全漏洞及漏洞代码](https://github.com/JoyChou93/java-sec-code)
+- [Java安全漏洞及修复代码](https://github.com/JoyChou93/java-sec-code)
 
 
 ### 8.1 RASP

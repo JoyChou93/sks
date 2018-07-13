@@ -151,7 +151,7 @@
 
 
 - [find-sec-bug](http://find-sec-bugs.github.io/bugs.htm)
-- [java-sec-code](https://github.com/JoyChou93/java-sec-code)
+- [Java安全漏洞及漏洞代码](https://github.com/JoyChou93/java-sec-code)
 
 
 ### 8.1 RASP

@@ -206,6 +206,7 @@
 ## 10. Python安全
 
 - [Exploit SSTI in Flask/Jinja2](https://joychou.org/web/exploit-ssti-in-flask-jinja2.html)
+- [SSTI服务端模板注入利用工具](https://github.com/epinna/tplmap)
 - [Ptyhon沙盒绕过](https://joychou.org/web/python-sandbox-bypass.html)
 - [Python安全代码审计](https://joychou.org/web/python-sec-code-audit.html)
 - [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
@@ -216,17 +217,22 @@
 
 - [Nginx Lua Web应用安全](https://joychou.org/web/nginx-lua-web-application-security.html)
 
-## 12. 漏洞修复
+## 12. Node.js安全
+
+- [Node.js URL重定向](https://www.npmjs.com/advisories/35)
+- [Node.js CVE-2017-14849任意文件读取](https://security.tencent.com/index.php/blog/msg/121)
+
+## 13. 漏洞修复
 
 - [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
 - [CVE-2016-5195 Dirty Cow漏洞修复](https://www.digitalocean.com/community/tutorials/how-to-protect-your-server-against-the-dirty-cow-linux-vulnerability)
 
 
-## 13. 黑科技
+## 14. 黑科技
 
-- [微博PC版去广告]()
+- [Mysql任意文件读取](https://lightless.me/archives/read-mysql-client-file.html)
 
-## 14. 基本技能
+## 15. 基本技能
 
 - Linux RPM理解及使用
 - PIP理解及使用
@@ -238,16 +244,15 @@
 - TCP/IP、HTTP协议
 - BurpSuite工具使用
 
-## 15. 安全面试问题
+## 16. 安全面试问题
 
 >面试的问题跟自己简历相关，只是面试官会根据你回答的点继续深挖，看看你有没有回答他想要的答案。
 
-### 15.1 甲方
+### 16.1 甲方
 
-#### 15.1.1 技术
+#### 16.1.1 技术
 
 基础
-
 
 - 服务器的Web目录发现一个一句话webshell后门，如何排查入侵原因、后门如何清除以及排查数据是否有泄露？
 - XXE常用payload
@@ -303,7 +308,7 @@
     - 只要数据库存在未编码、过滤的xss payload其实已经存在存储型XSS了，HTTP请求日志作用不是很大。
 - 如何判断WAF拦截的攻击请求中，哪些请求是人为请求，哪些是扫描器请求？
 
-#### 15.1.2 非技术
+#### 16.1.2 非技术
 
 - 觉得自己哪方面比较牛逼
 - 为什么离开之前公司
@@ -313,4 +318,4 @@
 - 对未来规划是什么
 - 安全培训怎样衡量价值？
 - 后面安全的方向是什么？
--﻿对自己在安全的定位是什么？
+- 对自己在安全的定位是什么？

@@ -206,7 +206,7 @@
 ## 10. Python安全
 
 - [Exploit SSTI in Flask/Jinja2](https://joychou.org/web/exploit-ssti-in-flask-jinja2.html)
-- [SSTI服务端模板注入利用工具](https://github.com/epinna/tplmap)
+- [tplmap - SSTI服务端模板注入利用工具](https://github.com/epinna/tplmap)
 - [Ptyhon沙盒绕过](https://joychou.org/web/python-sandbox-bypass.html)
 - [Python安全代码审计](https://joychou.org/web/python-sec-code-audit.html)
 - [Python任意命令执行漏洞修复](https://joychou.org/codesec/fix-python-arbitrary-command-execution-vulnerability.html)
